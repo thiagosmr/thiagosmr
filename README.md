@@ -106,19 +106,6 @@ $ cat ~/.expertise
 
 ---
 
-## 📊 GitHub em números
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=thiagosmr&show_icons=true&hide_border=true&title_color=1C3D5A&icon_color=FFA500&text_color=333333" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosmr&layout=compact&hide_border=true&title_color=1C3D5A&text_color=333333" alt="Top Languages" height="160" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thiagosmr&hide_border=true&background=FFFFFF&stroke=D3D6DB&ring=FFA500&fire=FFA500&currStreakLabel=1C3D5A&sideLabels=1C3D5A&currStreakNum=333333&sideNums=333333&dates=666666" alt="GitHub Streak" height="160" />
-</p>
-
----
-
 ## 📫 Contato
 
 Aberto a oportunidades, freelas e colaborações em projetos de IA, automação e backend.
